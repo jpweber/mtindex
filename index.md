@@ -4,21 +4,21 @@
 
 ## Issue 1
 
-| Page No. | Title                                                        | Author |
-| -------- | :----------------------------------------------------------- | ------ |
-| 10       | The Mortise & Tenon Manifesto by: Joshua A. Klein            |        |
-| 18       | Imbued With Story Interview with: Jon Brandon, furniture conservator |        |
-| 34       | On Period Craftsmanship Interview with: Phil Lowe, furniture maker |        |
-| 48       | Analysis of a Federal Boston Secretary by: Joshua A. Klein   |        |
-| 58       | Rural Refinement: Rectepfing the Parson's Card Table by: Joshua A. Klein |        |
-| 78       | The Objects Reveal Themselves Interview with: Gerald W.R. Ward, curator |        |
-| 86       | Ex Nihilo: The Genesis of Classical Proportion by: George Walker |        |
-| 94       | Adorned with Feathers: A Carving Tutorial by: Al Breed       |        |
-| 102      | 102 The Domity Shot New Decounts Interview with: Charles F. Hummel |        |
-| 110      | Striking a Balance by: Freddy Roman                          |        |
-| 118      | Distinguishing the Marks of an Artisan by: Martin O'Brien    |        |
-| 130      | Before Our Very Eyes: A Visit to the Yale Furniture Study Interview with: Eric Litke |        |
-| 139      | Workbenches: From Design & Theory to Construction & Use, R Book Review by: Zachary Dillinger |        |
+| Page No. | Title                                                        | Author            |
+| -------- | :----------------------------------------------------------- | ----------------- |
+| 10       | The Mortise & Tenon Manifesto                                | Joshua A. Klein   |
+| 18       | Imbued With Story Interview with: Jon Brandon, furniture conservator |                   |
+| 34       | On Period Craftsmanship Interview with: Phil Lowe, furniture maker |                   |
+| 48       | Analysis of a Federal Boston Secretary                       | Joshua A. Klein   |
+| 58       | Rural Refinement: Rectepfing the Parson's Card Table         | Joshua A. Klein   |
+| 78       | The Objects Reveal Themselves Interview with: Gerald W.R. Ward, curator |                   |
+| 86       | Ex Nihilo: The Genesis of Classical Proportion               | George Walker     |
+| 94       | Adorned with Feathers: A Carving Tutorial                    | Al Breed          |
+| 102      | The Domity Shot New Decounts Interview with: Charles F. Hummel |                   |
+| 110      | Striking a Balance                                           | Freddy Roman      |
+| 118      | Distinguishing the Marks of an Artisan                       | Martin O'Brien    |
+| 130      | Before Our Very Eyes: A Visit to the Yale Furniture Study Interview with: Eric Litke |                   |
+| 139      | Workbenches: From Design & Theory to Construction & Use, R Book Review | Zachary Dillinger |
 
 
 
@@ -76,6 +76,22 @@
 | 139      | Book Recommendation: The Framed Houses of Massachusetts Bay, 1625-1725 | PETER FOLLANSBEE  |
 
 
+
+## Issue 5
+
+| Page No. | Title                                                        | Author                              |
+| -------- | ------------------------------------------------------------ | ----------------------------------- |
+| 10       | 10.000 Hours: A Journey into Japanese Woodworking            | KIM CHOY                            |
+| 24       | Convergent Design: The Six-board Viking Sea Chest            | KATE FOX                            |
+| 36       | n Unlikely Masterpiece: Exammining Chester Cornett's Bookcase Rocking "Chire" | BRENDAN GAFFNEY                     |
+| 50       | Coopering: A Harsh Mistress                                  | MARSHALL SCHEETY                    |
+| 66       | Tools for Learning: Woodworking with Young Children          | JOSHUA A. KLEIN & MICHAEL UPDEGRAFF |
+| 80       | Woodworking in Classic Literature                            | MEGAN FITZPATRICK                   |
+| 90       | Examination of an 18th-century Mahogany Tea Table            |                                     |
+| 100      | An Overwhelming Call: The Life & Work of Eric Sloane         | MICHAEL UPDEGRAFF                   |
+| 112      | In Tight Quarters: A Conversation with Spencer Nelson About Apartment Woodworking |                                     |
+| 122      | Han in Hand with Jonathan Fisher: Interacting with the Legacy of a Rural Artisan | JOSHUA A KLEIN                      |
+| 139      | Book Recommendation: Oak Furniture: The British Tradition    | DEREK OLSON                         |
 
 
 
