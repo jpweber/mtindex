@@ -1,1 +1,2 @@
-git: "https://github.com/henrythemes/jekyll-gutenberg-theme"
+gem "jekyll-theme-minimal", git: "https://github.com"
+
