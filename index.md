@@ -1,8 +1,8 @@
-# Mortise and Tenon Magazine Index
+# Mortise and Tenon Magazine Article Index
 
 {:toc}
 
-## Issue 1
+## [Issue 1](https://www.mortiseandtenonmag.com/collections/books/products/the-first-three-issues-book)
 
 | Page No. | Title                                                        | Author            |
 | -------- | :----------------------------------------------------------- | ----------------- |
@@ -22,7 +22,7 @@
 
 
 
-## Issue 2
+## [Issue 2](https://www.mortiseandtenonmag.com/collections/books/products/the-first-three-issues-book)
 
 | Page No. | Title                                                        | Author |
 | -------- | :----------------------------------------------------------- | ------ |
@@ -39,7 +39,7 @@
 | 130      | Stories Tools Tell An Interview with Tool Collector Skip Brack |        |
 | 139      | Woodworking in Estonia Book Review by: Michael Updegraff     |        |
 
-## Issue 3
+## [Issue 3](https://www.mortiseandtenonmag.com/collections/books/products/the-first-three-issues-book)
 
 | Page No. | Title                                                        | Author |
 | -------- | ------------------------------------------------------------ | ------ |
@@ -54,11 +54,11 @@
 | 106      | On the Trail of Two Cabinetmakers: Reconstructing the Carees of Samuel Wing & Till Mead |        |
 | 116      | Resurrecting the Derelict: Hard Choices in the Conservation of a Chest |        |
 | 128      | Through a Wilderness of Ornament: Working with 18th-century Pattern Books |        |
-| 139      | Book Review: A Field Guide to Identifying Woods in American Antiques & Collectibles |        |
+| 139      | Book Review: _A Field Guide to Identifying Woods in American Antiques & Collectibles_ |        |
 
 
 
-## Issue 4
+## [Issue 4](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-four)
 
 | Page No. | Title                                                        | Author            |
 | -------- | ------------------------------------------------------------ | ----------------- |
@@ -73,11 +73,11 @@
 | 96       | Carpentry Without Borders: An Exploration of Traditional Timber Framing in Romania | WILL LISAK        |
 | 114      | Carrying Their Legacies: Selecting, Restoring, & Using Wooden Bench Planes | JOSHUA A. KLEIN   |
 | 128      | Entrusted to Our Care: An Interview with Furniture Conservator Christine Thomson |                   |
-| 139      | Book Recommendation: The Framed Houses of Massachusetts Bay, 1625-1725 | PETER FOLLANSBEE  |
+| 139      | Book Recommendation: _The Framed Houses of Massachusetts Bay, 1625-1725_ | PETER FOLLANSBEE  |
 
 
 
-## Issue 5
+## [Issue 5](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-five)
 
 | Page No. | Title                                                        | Author                              |
 | -------- | ------------------------------------------------------------ | ----------------------------------- |
@@ -91,11 +91,11 @@
 | 100      | An Overwhelming Call: The Life & Work of Eric Sloane         | MICHAEL UPDEGRAFF                   |
 | 112      | In Tight Quarters: A Conversation with Spencer Nelson About Apartment Woodworking |                                     |
 | 122      | Han in Hand with Jonathan Fisher: Interacting with the Legacy of a Rural Artisan | JOSHUA A KLEIN                      |
-| 139      | Book Recommendation: Oak Furniture: The British Tradition    | DEREK OLSON                         |
+| 139      | Book Recommendation: _Oak Furniture: The British Tradition_  | DEREK OLSON                         |
 
 
 
-## Issue 6
+## [Issue 6](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-six)
 
 | Page No. | Title                                                        | Author             |
 | -------- | ------------------------------------------------------------ | ------------------ |
@@ -109,11 +109,11 @@
 | 96       | The Wooden Brace: Bitstock Technology for the 21st Century   | JOSHUA A. KLEIN    |
 | 114      | The Cabinetmaker's Shop: Breathing New Life into an Old Trade | BROCK JOBE         |
 | 128      | Forging Traditions: The Common Ancestry of Japanese & Western Edge Tools | WILBUR PAN         |
-| 138      | Book Recommendation: The Unknown Craftsman                   | ARSENIOS HILL      |
+| 138      | Book Recommendation: _The Unknown Craftsman_                 | ARSENIOS HILL      |
 
 
 
-## Issue 7
+## [Issue 7](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-seven)
 
 | Page No. | Title                                                        | Author              |
 | -------- | ------------------------------------------------------------ | ------------------- |
@@ -127,5 +127,112 @@
 | 106      | Examination of an Early 18th-century High Chest of Drawers   |                     |
 | 116      | #thenewwoodculture                                           | JARROD DAHL         |
 | 130      | Axioms of Pre-industrial Craft                               | GEORGE WALKER       |
-| 138      | Book Recommendation: Country Woodcraft                       | SAM DESOCIO         |
+| 138      | Book Recommendation: _Country Woodcraft_                     | SAM DESOCIO         |
 
+
+
+## [Issue 8](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-eight)
+
+| Page No. | Title                                                        | Author            |
+| -------- | ------------------------------------------------------------ | ----------------- |
+| 8        | Intermediate Technology in the Shop                          | HARRY BRYAN       |
+| 24       | Showing Us What is Possible                                  | JOSHUA A. KLEIN   |
+| 40       | Crafting an Education: Recreating Henry David Thoreau's Desk With Eleventh Graders | CAMERON TURNER    |
+| 56       | Subversive Woodwright: An Interview With Roy Underhill       |                   |
+| 74       | A Sense of Place                                             | AMY UMBEL         |
+| 88       | Examination of a Grain-painted Chest-Over-Drawers            |                   |
+| 96       | The Legend of the Jimmy Possum Chair                         | DR. MIKE EPWORTH  |
+| 112      | Tool Marks Tell Stories                                      | MICHAEL UPDEGRAFF |
+| 128      | Manual Training: What it is and its Place in Education       | JOSEPH C. PARK    |
+| 138      | Book Recommendation: Hand Tools: _Their Ways and Workings_   | MICHAEL UPDEGRAFF |
+
+
+
+## [Issue 9](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-nine)
+
+| Page No. | Title                                                        | Author               |
+| -------- | ------------------------------------------------------------ | -------------------- |
+| 8        | The Sacred in the Common: Making an Icon Panel               | SYMEON VAN DONKELAAR |
+| 22       | Making the Sussex Chair                                      | ABDOLLAH NAFISI      |
+| 38       | The Legacy of Cesar Chelor                                   | STEVE VOIGT          |
+| 50       | Scribes of Nature: Dendrochronology & the Deeper Story of Wooden Objects | MICHAEL UPDEGRAFF    |
+| 70       | Examination of an 1815-1830 New England Rocking Chair        |                      |
+| 80       | Iterative Design in Vernacular Workholding                   | JOSHUA A. KLEIN      |
+| 98       | The Master is Free: The Legendary Skill of John Hemmings     | CANLIN J. FROST      |
+| 110      | A Useful Third Hand: Shop-made Viking Clamps                 | ZACHARY DILLINGER    |
+| 122      | A Path to Serenity: Sheltering at the Bench with the Korean Masters | DAVID LANE           |
+| 136      | Book Recommendation: _Shop Class as Soulcraft_               | NANCY R. HILLER      |
+
+
+
+## [Issue 10](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-ten)
+
+| Page No. | Title                                                        | Author            |
+| -------- | ------------------------------------------------------------ | ----------------- |
+| 10       | An Unexpected Gift: Discovering Calm in a Modern Apprenticeship | WILL WHEELER      |
+| 28       | An Exercise in Precision & Randomness: Replicating David Pye's Fluting Engine | JEFF MILLER       |
+| 40       | Savageness                                                   | JOHN RUSKIN       |
+| 54       | Ready Hands: A Letter to My Sons                             | JOSHUA A. KLEIN   |
+| 76       | A Whisper from the Past: The Lessons Tools Teach Us          | GEORGE WALKER     |
+| 86       | Examination of a William & Mary Gateleg Table (1715-1740)    |                   |
+| 94       | The Rhythm of Weaving Cattail Rush Seats                     | MICHAEL UPDEGRAFF |
+| 114      | Walking with Wood / Se Promener avec Le Bois                 | JOSEPH BRIHIEZ    |
+| 126      | The Past for the Future: Reflections on 50 Years as a Furniture Conservator W. PATRICK EDWARDS |                   |
+| 138      | Books for Students of Furniture                              | AL BREED          |
+
+
+
+## [Issue 11](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-eleven)
+
+| Page No. | Title                                                        | Author                  |
+| -------- | ------------------------------------------------------------ | ----------------------- |
+| 8        | Mountain Music: The Story of _Foxfire's_ 50 Years of Appalachian Handcraft | MICHAEL UPDEGRAFF       |
+| 30       | Warp & Weft: Weaving Academic Research with Handcraft in the Restoration of a Loom | NEVAN CARLING           |
+| 46       | Understanding the Medieval Socket Axe                        | GUSTAVE REMON           |
+| 56       | A Williamsburg Apprentice: Discovering the Trade, Art & Myster of 18th-centruy Cabinetmaking | JEREMY TRITCHLER        |
+| 72       | For Speed: Fancy Windsor Chair Production in Early America   | ELIA BIZZARRI           |
+| 88       | Examination of an Early 19th-century Chest of Drawers        |                         |
+| 98       | Finding the Groove: The Value of Batch Production Woodworking | JOSHUA A. KLEIN         |
+| 114      | The Drawknife & the Butterfly Effect                         | DR. MIKE EPWORTH        |
+| 126      | On His Own Book: The Story of Chairmaker Richard Poynor      | HUNTER S. ZYRIEK-RHODES |
+| 138      | Book Recommendation: John Ruskin's _Unto this Last_          | RAY DEFTEREOS           |
+|          |                                                              |                         |
+|          |                                                              |                         |
+
+
+
+## [Issue 12](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-twelve)
+
+| Page No. | Title                                                        | Author            |
+| -------- | ------------------------------------------------------------ | ----------------- |
+| 6        | From the Editor                                              |                   |
+| 8        | Bulletin                                                     |                   |
+| 10       | The Last Boatbuilder of the Nagara River                     | DOUGLAS BROOKS    |
+| 30       | The Simple Art of Wooden Planemaking                         | JOSHUA A. KLEIN   |
+| 46       | For the Love of History: A Journey into Practical Blacksmithing | JORDAN GOODWIN    |
+| 58       | Risk & Reward: Skill as a Safety Net                         | MICHAEL UPDEGRAFF |
+| 70       | The Van Gogh Chair                                           | MASASHI KUTSUWA   |
+| 86       | Both Ends of the Spectrum: An Examination of Two Ladderback Chairs |                   |
+| 94       | The Courage of Curiousity: An Interview with Furnitture Conservator Donald C. Williams |                   |
+| 110      | From Jute to Silk: Making Splint from Riven White Ash        | BRENDAN CAFFNEY   |
+| 126      | Log Building with the Dalarna Corner Notch                   | DENNIS CARTER     |
+| 138      | Book Recommendation: Glenn Adamson's _Craft: An American History_ | CAMERON TURNER    |
+
+
+
+## [Issue 13](https://www.mortiseandtenonmag.com/collections/magazine/products/issue-thirteen)
+
+| Page No. | Title                                                        | Author            |
+| -------- | ------------------------------------------------------------ | ----------------- |
+| 6        | From the Editor                                              |                   |
+| 8        | Bulletin                                                     |                   |
+| 12       | The Fiddle's Unfolding: Tracing a Folk Tradition             | KERRY LAMBERTSON  |
+| 26       | Fruitful Efficiency: On the Cultivation of Skill             | JOSHUA A. KLEIN   |
+| 42       | A Blacksmith's Contribution to Woodworking                   | KENNETH SCHWARZ   |
+| 60       | Root & Branch                                                | BRENDAN GAFFNEY   |
+| 74       | From the Ashes: Examination of a Mid-19th-Century Worktable  |                   |
+| 86       | Engaging Work: Selections on Craftsmanship & the Modern World | COMPILATION       |
+| 100      | The Scraper Through the Ages                                 | MICHAEL UPDEGRAFF |
+| 114      | Some Thoughts on the Artisan Process                         | JIM TOLPIN        |
+| 124      | Reconstructing the Varnish Maker's Art: Traditional Finishes for the 21st Century | STEVE VOIGT       |
+| 138      | Book Recommendation: _Claudia Kinmonth's Irish Country Furniture and Furnishings_ | GERALD W.R. WARD  |
