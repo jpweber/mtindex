@@ -60,20 +60,20 @@
 
 ## Issue 4
 
-| Page No. | Title | Author |
-| -------- | ----- | ------ |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
-|          |       |        |
+| Page No. | Title                                                        | Author            |
+| -------- | ------------------------------------------------------------ | ----------------- |
+| 10       | The Quest for Mastery Through Production Work                | JARROD DAHL       |
+| 20       | The Artisan's Guide to Pre-industrial Table Construction     | JOSHUA A. KLEIN   |
+| 36       | In Pursuit of the Handmade Aesthetic                         | MICHAEL UPDEGRAFF |
+| 48       | Straight to the Truth: Designing, Making, & Using Wooden Straightedges | JIM TOLPIN        |
+| 58       | The Business of Woodworking: 1700 to 1840                    | CHARLES F. HUMMEL |
+| 70       | Axes for the Workshop                                        | VIC TESOLIN       |
+| 76       | Examination of an 18th-century English Kneehole Desk         |                   |
+| 86       | An Open Question: Investigating the Steam-bent Drawer Backs of the Swisegood School of Cabinetmaking | JIM MCCONNELL     |
+| 96       | Carpentry Without Borders: An Exploration of Traditional Timber Framing in Romania | WILL LISAK        |
+| 114      | Carrying Their Legacies: Selecting, Restoring, & Using Wooden Bench Planes | JOSHUA A. KLEIN   |
+| 128      | Entrusted to Our Care: An Interview with Furniture Conservator Christine Thomson |                   |
+| 139      | Book Recommendation: The Framed Houses of Massachusetts Bay, 1625-1725 | PETER FOLLANSBEE  |
 
 
 
