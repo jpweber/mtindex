@@ -95,3 +95,18 @@
 
 
 
+## Issue 6
+
+| Page No. | Title                                                        | Author             |
+| -------- | ------------------------------------------------------------ | ------------------ |
+| 8        | The Good Life: Discussing Slöjd with Jögge Sundqvist         |                    |
+| 26       | Cutting-edge Technology: Rediscovering the Double-iron Plane | STEVE VOIGT        |
+| 36       | A Chair Called Henry                                         | NATHANIEL BREWSTER |
+| 44       | William Morris & George Nakashima: Finding the Middle Landscape | DAVID LANE         |
+| 56       | Examination of an 1804 Painted Cupboard                      |                    |
+| 66       | A Tale of Two Trees: The Radical Efficiency of Green Woodworking | MICHAEL UPDEGRAFF  |
+| 84       | A Painted Chest in the Pennsylvania-German Tradition         | JIM MCCONNELL      |
+| 96       | The Wooden Brace: Bitstock Technology for the 21st Century   | JOSHUA A. KLEIN    |
+| 114      | The Cabinetmaker's Shop: Breathing New Life into an Old Trade | BROCK JOBE         |
+| 128      | Forging Traditions: The Common Ancestry of Japanese & Western Edge Tools | WILBUR PAN         |
+| 138      | Book Recommendation: The Unknown Craftsman                   | ARSENIOS HILL      |
