@@ -110,3 +110,22 @@
 | 114      | The Cabinetmaker's Shop: Breathing New Life into an Old Trade | BROCK JOBE         |
 | 128      | Forging Traditions: The Common Ancestry of Japanese & Western Edge Tools | WILBUR PAN         |
 | 138      | Book Recommendation: The Unknown Craftsman                   | ARSENIOS HILL      |
+
+
+
+## Issue 7
+
+| Page No. | Title                                                        | Author              |
+| -------- | ------------------------------------------------------------ | ------------------- |
+| 8        | A Partnership with Nature: An Interview with Peter Lamb      |                     |
+| 24       | A Fresh & Unexpected Beauty: Understanding David Pye's Workmanship of Risk | JOSHUA A. KLEIN     |
+| 34       | The Weight of the Past: Unearthing the 18th-century Cabriole Leg | BILL PAVLAK         |
+| 46       | Freedom From Vises: Workholding Solutions From Three Traditions | MICHAEL UPDEGRAFF   |
+| 58       | A Good Day's Work: A Day in the Life of a Village Carpenter  | RICHARD ARNOLD      |
+| 72       | As Part of a Life Lived: A Shaker's Perspective on His Community's Craft | BROTHER ARNOLD HADD |
+| 90       | A Gentler Way of Working: Investigating Welsh Vernacular Woodwork | KIERAN BINNIE       |
+| 106      | Examination of an Early 18th-century High Chest of Drawers   |                     |
+| 116      | #thenewwoodculture                                           | JARROD DAHL         |
+| 130      | Axioms of Pre-industrial Craft                               | GEORGE WALKER       |
+| 138      | Book Recommendation: Country Woodcraft                       | SAM DESOCIO         |
+
