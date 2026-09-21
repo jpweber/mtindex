@@ -1,8 +1,6 @@
 # Mortise and Tenon Magazine Index
 
-[TOC]
-
-
+{:toc}
 
 ## Issue 1
 
