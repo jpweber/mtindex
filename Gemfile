@@ -1,2 +1,1 @@
-source 'https://rubygems.org'
-gem "jekyll-remote-theme"
+git: "https://github.com/henrythemes/jekyll-gutenberg-theme"
